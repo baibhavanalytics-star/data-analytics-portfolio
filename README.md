@@ -37,15 +37,6 @@ This repository showcases my end-to-end data analysis projects focused on solvin
 
 ---
 
-### 🔹 Excel Sales Dashboard
-
-🔗 (add your Excel repo link here)
-
-* Built dashboard using pivot tables and charts
-* Analyzed sales trends and KPIs
-
----
-
 ## 🛠️ Skills Demonstrated
 
 * Data Cleaning & Transformation
@@ -69,4 +60,3 @@ This repository showcases my end-to-end data analysis projects focused on solvin
 ## 💼 Goal
 
 Seeking an entry-level Data Analyst role to apply analytical skills and solve real-world business problems using data.
-
